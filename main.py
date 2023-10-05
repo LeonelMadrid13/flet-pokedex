@@ -1,13 +1,3 @@
-
-#######################################################################################################
-# Para ejecutar el programa:
-# corre 'python -m venv venv' para crear un entorno virtual
-# corre './venv/Scripts/activate.ps1' para activar el entorno virtual
-# corre 'python -m pip install flet asyncio aiohttp' para instalar las dependencias
-# corre 'flet ./main.py' para ejecutar el programa
-# corre 'flet pack .\main.py --name "Flet Pokedex" --icon .\Pokeball.png' para empaquetar el programa en un exe
-#######################################################################################################
-
 import flet as ft
 import math
 import asyncio
